@@ -1,0 +1,4 @@
+package com.reactive.mongocrud.dto;
+
+public class Product {
+}
